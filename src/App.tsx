@@ -47,17 +47,17 @@ const cards: Card[] = [
   {
     front: card1,
     message:
-      "They capture our deep, heartfelt connection—the magic that happens when two souls truly meet.",
+      "Poorvi, you're the magic that happens when two souls truly meet—our connection is written in the stars.",
   },
   {
     front: card2,
     message:
-      "This reminds us that fate has its own beautiful plan, spinning our lives together with twists and turns that only make our bond stronger.",
+      "Fate spun our lives together, my cutie—every twist and turn only makes my love for you, Poorvi, stronger.",
   },
   {
     front: card3,
     message:
-      "It shines with hope and endless dreams, lighting the way toward a future as bright and beautiful as the love we share.",
+      "With you, Poorvi, the future shines with hope and endless dreams—as bright and beautiful as you are.",
   },
 ];
 

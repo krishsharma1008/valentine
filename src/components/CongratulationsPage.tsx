@@ -38,7 +38,7 @@ const CongratulationsPage = ({ onNext }: CongratulationsPageProps) => {
       </h1>
 
       <h2 className="text-2xl text-primary mb-8 text-center animate-fade-in">
-        You now have a Valentine! ❤️
+        Poorvi said yes—you're my Valentine, my cutie! ❤️
       </h2>
 
       <img

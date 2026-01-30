@@ -9,25 +9,25 @@ const WishMaker = ({ onBack }: WishMakerProps) => {
   const [visibleWishes, setVisibleWishes] = useState<number>(0);
 
   const wishes = [
-    "To share countless sunsets together",
-    "To make you smile every day",
-    "To build our dreams together",
-    "To create a lifetime of beautiful memories",
-    "To always be your safe place",
-    "To travel the world hand in hand",
-    "To fill our home with love and laughter",
-    "To support each other through every challenge",
-    "To grow old together with hearts forever young",
-    "To wake up next to you every morning",
-    "To celebrate every little victory with you",
-    "To be your greatest adventure",
-    "To write a love story that never ends",
-    "To always dance in the kitchen with you",
-    "To cherish you every single day",
-    "To love you more with every heartbeat",
+    "To share countless sunsets with you, Poorvi",
+    "To make my cutie Poorvi smile every day",
+    "To build our dreams together, Poorvi",
+    "To create a lifetime of memories with you",
+    "To always be your safe place, my cutie",
+    "To travel the world hand in hand with Poorvi",
+    "To fill our home with love and laughter with you",
+    "To support you through every challenge, Poorvi",
+    "To grow old with you—hearts forever young",
+    "To wake up next to Poorvi every morning",
+    "To celebrate every little victory with my cutie",
+    "To be your greatest adventure, Poorvi",
+    "To write our love story that never ends",
+    "To always dance in the kitchen with Poorvi",
+    "To cherish you every single day, my cutie",
+    "To love Poorvi more with every heartbeat",
     "To always remind you how special you are",
-    "To hold your hand through every season of life",
-    "To be your best friend, always and forever",
+    "To hold Poorvi's hand through every season",
+    "To be your best friend, always and forever—Poorvi",
   ];
 
   useEffect(() => {
@@ -47,7 +47,7 @@ const WishMaker = ({ onBack }: WishMakerProps) => {
 
   return (
     <div className="flex flex-col items-center gap-8 p-4">
-      <h2 className="text-3xl text-primary font-bold">My Wishes For Us</h2>
+      <h2 className="text-3xl text-primary font-bold">My Wishes For You, Poorvi</h2>
       <div className="w-full max-w-4xl h-[60vh] overflow-y-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           {showWishes &&

@@ -27,10 +27,10 @@ const TarotsGift = ({
 
   return (
     <div className="flex flex-col items-center gap-6 p-4 text-center">
-      <h2 className="text-3xl text-primary font-bold">The Tarot's Gift</h2>
+      <h2 className="text-3xl text-primary font-bold">The Tarot's Gift for Poorvi</h2>
       <p className="text-lg text-primary mb-4 max-w-lg">
-        Three mystical charms have appeared. Each holds a special meaning for
-        our journey together.
+        Three mystical charms have appeared for you, Poorvi. Each holds a special meaning for
+        our journey together, my cutie.
       </p>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 w-full max-w-4xl px-2">
@@ -51,7 +51,7 @@ const TarotsGift = ({
             Eternal Scroll
           </h3>
           <p className="text-sm text-gray-600">
-            Represents a love letter or a hidden message from destiny.
+            A love letter for Poorvi—a hidden message from destiny for my cutie.
           </p>
         </div>
 
@@ -70,7 +70,7 @@ const TarotsGift = ({
           </div>
           <h3 className="text-lg sm:text-xl font-bold text-primary">Key</h3>
           <p className="text-sm text-gray-600">
-            Symbolizes unlocking emotions, trust, or the future together.
+            Unlocking emotions, trust, and the future with Poorvi, my cutie.
           </p>
         </div>
 
@@ -92,7 +92,7 @@ const TarotsGift = ({
             Endless Love
           </h3>
           <p className="text-sm text-gray-600">
-            Represents deep, unbreakable love and unity.
+            Deep, unbreakable love for Poorvi—forever united with my cutie.
           </p>
         </div>
       </div>

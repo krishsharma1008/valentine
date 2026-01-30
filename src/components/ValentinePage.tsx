@@ -53,7 +53,7 @@ const ValentinePage = ({ onNext }: ValentinePageProps) => {
       />
 
       <h1 className="text-3xl text-primary font-bold mb-8">
-        Will you be my Valentine?
+        Poorvi, will you be my Valentine?
       </h1>
 
       <div className="flex gap-4">

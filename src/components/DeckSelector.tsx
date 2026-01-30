@@ -24,9 +24,9 @@ const DeckSelector = ({ onSelect, decks }: DeckSelectorProps) => {
 
   return (
     <div className="flex flex-col items-center gap-8 p-4 text-center">
-      <h2 className="text-3xl text-primary font-bold">Choose Your Deck</h2>
+      <h2 className="text-3xl text-primary font-bold">Choose Your Deck, Poorvi</h2>
       <p className="text-lg max-w-2xl text-primary font-bold mb-4">
-        I know you like tarot, so I've prepared different deck styles. Choose
+        I know you like tarot, Poorvi—so I've prepared different deck styles for my cutie. Choose
         the one that speaks to your heart for your reading.
       </p>
 
